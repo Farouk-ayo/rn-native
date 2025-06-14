@@ -12,12 +12,14 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.tmdb-v2-mobile-app.yourappname",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
     },
+
     "web": {
       "bundler": "metro",
       "output": "static",
