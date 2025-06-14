@@ -12,7 +12,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.tmdb-v2-mobile-app.yourappname",
+      "package": "com.devfarouk.tmdb-v2-mobile-app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
